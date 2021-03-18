@@ -1,0 +1,127 @@
+
+
+header {
+    background-image: linear-gradient(to top, #100857, rgb(0, 51, 220));
+    height: 20vh;
+    text-align: center;
+    border: solid linear-gradient(to top, rgb(26, 2, 111), rgb(96, 97, 99));
+    border: 2px;
+    margin: 0 auto;
+    
+}
+
+#menus {
+  background-color: rgb(4, 30, 135);
+  float: right;
+  width: 20vw;
+  margin-top: 8vh;
+  margin-right: 20vw;
+  padding: 18px;
+  border: solid white
+
+
+
+}
+
+.link {
+    text-decoration: None;
+    color: black;
+}
+
+#session_1 {
+    width: 42.5%;
+    margin-top: 8vh;
+    background-color: rgb(4, 30, 135);
+    padding: 4px;
+    position: relative;
+    display: block;
+    margin-left: 9vw;
+    border: solid white
+
+}
+#direita {
+  float: right;
+}
+body {
+  background-image: linear-gradient(to top, rgb(2, 6, 100), rgb(14, 117, 252));
+    margin: 0 auto;
+    height: 100vh;
+  
+}
+
+#tabela-banco {
+  
+  border-collapse: collapse;
+ 
+ 
+  margin-top: 5px;
+
+}
+  
+  td {
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: left;
+    padding: 8px;
+  }
+   th, thead {
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #ffffff;
+  }
+  tr:nth-child(odd) {
+    background-color: rgb(255, 255, 255);
+  }
+   h1 {
+    margin-bottom: 7vh;
+  }
+
+  a {
+    text-decoration: None;
+    
+  }
+
+  label {
+    color: white;
+  }
+  caption{
+    border-style: solid black ;
+    color: white;
+    border-width: 2px;
+    border-radius: 2px;
+
+    margin-bottom: 3px;
+  }
+
+  thead {
+    border: 1px  rgb(40, 50, 56);
+    border-radius: 5px;
+    text-align: center;
+    padding: 8px;
+  }
+  ul {
+    display: inline;
+  }
+
+  #navega {
+   
+    height: 40px;
+    width: 20vw;
+   
+  }
+
+  img {
+    height: 80px;
+    width: 200px;
+    margin: 0 auto;
+  
+  }
+
+  h3 {
+    color: white;
+  }
