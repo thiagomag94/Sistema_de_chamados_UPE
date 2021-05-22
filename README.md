@@ -1,2 +1,2 @@
-# Sistema_De_Chamados_UPE
+# Sistema De_Chamados UPE
 Sistema contador de chamados desenvolvido para suprir as necessidades do setor de Suporte TI do Núcleo de Comunicação e Tecnologia da Informação (NCTI) da Universidade de Pernambuco (UPE).
